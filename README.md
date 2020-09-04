@@ -1,6 +1,6 @@
 # LZS compression algorithm
 
-LZS (Lempel Ziv Stac Eletronics) is a lossless compression algorithm developed in C standard ISO/IEC 9899:1999. Instead of using a history buffer of 2048 bytes use 256 bytes with the hash table support for pattern search.
+LZS (Lempel Ziv Stac Eletronics) is a lossless compression algorithm developed in C standard ISO/IEC 9899:1999. Instead of using a history buffer of 2048 bytes this implementation use a 256 bytes window size with the hash table support for pattern search.
 
 # Features
 
