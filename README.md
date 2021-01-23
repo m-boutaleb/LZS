@@ -4,7 +4,7 @@ LZS (Lempel Ziv Stac Eletronics) is a lossless compression algorithm developed i
 
 # Features
 
-  - Command Lind Interface available
+  - Command Line Interface available
   - Multilayer architecture
   - Compress and decompress all kind of data
 
