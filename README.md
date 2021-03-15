@@ -8,7 +8,7 @@ LZS (Lempel Ziv Stac Eletronics) is a lossless compression algorithm developed i
   - Multilayer architecture
   - Compress and decompress all kind of data
 
-# Installation
+# Use
 
 LZS require MinGW or any other compiler for C. Static distributions are available for linux and windows in the *dist/* folder, while the necessary libraries are available in the *lib/* dir. 
 
